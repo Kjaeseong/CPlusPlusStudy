@@ -23,10 +23,10 @@ int main()
     string scary = "my mother";
     string study = "멀티 디바이스 플랫폼 메타버스 개발자 과정";
 
-    short age = 31;
-    short tall = 165;
-    short average_sleep = 6;
-    short playgame_time = 2;
+    int age = 31;
+    int tall = 165;
+    int average_sleep = 6;
+    int playgame_time = 2;
 
     float weight = 72.5f;
 
